@@ -1,0 +1,2 @@
+# JoeEssien-Portfolio
+My portfolio
